@@ -36,6 +36,10 @@ The analysis aims to:
 Which brands and models are most popular based on pricing and discounts
 The impact of warranty and features on pricing strategy
 Optimal discount range that maximizes sales
+
+
+
+
 - DashBoard Interaction <a href="https://github.com/shivambhatt2903/Washing_Machine_Sales_Analysis/blob/main/Flipkart%20Dashboard.pbix">View DashBoard</a>
 ## DashBoard Images
 ![DashBoard ScreenShot1](https://github.com/user-attachments/assets/11ec2bb6-9cae-41cf-93c0-fbc3cd0166e2)
