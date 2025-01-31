@@ -30,7 +30,7 @@ The analysis aims to:
 - Web Scraping: Used BeautifulSoup to extract washing machine data from Flipkart
 - Data Cleaning & Preprocessing: Used Pandas to clean, transform, and structure the dataset
 ## Data Storage & Querying:
-- Used SQL (MySQL/SQLite) to store, manage, and query the scraped data efficiently
+- Used SQL Mysql to store, manage, and query the scraped data efficiently
 - Performed SQL queries to analyze trends, filter data, and extract key insights
 # Insights
 Which brands and models are most popular based on pricing and discounts
